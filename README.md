@@ -5,3 +5,11 @@ NPM
 
 
 get your apikey in openai.com profile settings
+
+
+
+
+# Usage :
+using "prompt:" parameter
+
+
